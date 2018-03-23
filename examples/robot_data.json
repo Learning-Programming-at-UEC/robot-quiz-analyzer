@@ -1,0 +1,64 @@
+{
+  "quizAnswers": {
+    "QuizId1": {
+      "問題文1": {
+        "clientId1": {
+          "name": "生徒名1",
+          "answer": "選択肢",
+          "time": "回答時刻",
+          "quizStartTime": "開始時刻"
+        },
+        "clientId2": {
+          "name": "生徒名2",
+          "answer": "選択肢",
+          "time": "回答時刻",
+          "quizStartTime": "開始時刻"
+        }
+      },
+      "問題文2": {
+        "clientId1": {
+          "name": "生徒名1",
+          "answer": "選択肢",
+          "time": "回答時刻",
+          "quizStartTime": "開始時刻"
+        },
+        "clientId2": {
+          "name": "生徒名2",
+          "answer": "選択肢",
+          "time": "回答時刻",
+          "quizStartTime": "開始時刻"
+        }
+      }
+    },
+    "QuizId2": {
+      "問題文1": {
+        "clientId1": {
+          "name": "生徒名1",
+          "answer": "選択肢",
+          "time": "回答時刻",
+          "quizStartTime": "開始時刻"
+        },
+        "clientId2": {
+          "name": "生徒名2",
+          "answer": "選択肢",
+          "time": "回答時刻",
+          "quizStartTime": "開始時刻"
+        }
+      },
+      "問題文2": {
+        "clientId1": {
+          "name": "生徒名1",
+          "answer": "選択肢",
+          "time": "回答時刻",
+          "quizStartTime": "開始時刻"
+        },
+        "clientId2": {
+          "name": "生徒名2",
+          "answer": "選択肢",
+          "time": "回答時刻",
+          "quizStartTime": "開始時刻"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+Django==2.0.3
+django-extensions
+python-dateutil
+ipython
