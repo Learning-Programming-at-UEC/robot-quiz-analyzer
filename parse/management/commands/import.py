@@ -23,6 +23,11 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         parser.add_argument(
+            '--aaa', nargs='*',
+            help=''
+            )
+
+        parser.add_argument(
             '-s', '--student-file', dest='student_path',
             help=''
             )

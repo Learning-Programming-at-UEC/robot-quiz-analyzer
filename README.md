@@ -30,6 +30,13 @@ In [2]: Player.print_most_accurate_top_x(5)
 5 生徒名: XX.X%
 ```
 
+### import command
+```
+$ python manage.py import -s student.json
+$ python manage.py import -q quiz.json
+$ python manage.py import -r result.json
+```
+
 ## Installation
 ```
 $ git clone https://github.com/Learning-Programing-at-UEC/robot-quiz-analyzer.git
